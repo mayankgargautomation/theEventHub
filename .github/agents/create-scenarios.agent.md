@@ -1,6 +1,6 @@
 ---
 name: create-scenarios
-description: Generate exhaustive functional test scenarios from EventHub domain rules, user flows, and app behavior.
+description: Generate functional test scenarios from domain knowledge using 6 thinking lenses
 argument-hint: [feature-name or blank for full suite]
 ---
 
